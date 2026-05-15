@@ -36,7 +36,7 @@ Inspired by GNOME extension [No Time For Caution](https://github.com/ans-ibrahim
 Alternatively, run:
 
 ```bash
-dms plugins install timeUntil
+hype plugins install timeUntil
 ```
 
 ### Manual
